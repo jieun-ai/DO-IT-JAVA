@@ -6,10 +6,6 @@ public class StringOperation {
 		System.out.println("Hello,leezche ...bye".replace("leezche", "egoing"));
 		System.out.println("Hello \"World\""); //Hello "World"
 		System.out.println("Hello \"World\""); //Hello "World"
-		System.out.println("Hello \"World\""); //Hello "World"
-		System.out.println("Hello \"World\""); //Hello "World"
-		System.out.println("Hello \"World\""); //Hello "World"
-		System.out.println("Hello \"World\""); //Hello "World"
 	}
 
 }
